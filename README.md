@@ -1,4 +1,4 @@
-#Online Food Delivery System using SpringBoot, Angular and MySQL
+Online Food Delivery System using SpringBoot, Angular and MySQL
 
 Domain: Food DeliveryProject
 
